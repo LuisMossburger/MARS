@@ -2,19 +2,19 @@
 ein webbasiertes, intutives Ausleihsystem für Bibliotheken. Einsetzbar an jeder Bibliothek, deren Lokalsystem SLNP unterstützt.
 
 
-### kompakte funktionen
+<b>kompakte funktionen</b><br>
 Gedacht für einfache Verbuchungsvorgänge, wie Ausleihe und Rückgabe, beispielsweise an den Lesesaaltheken zu Randzeiten. Angepasst an niederschwellige Thekenverbuchung ohne Bearbeitung komplizierter Fälle.
 
-### intuitiv nutzbar
+<b>intuitiv nutzbar</b><br>
 Designed für den Einsatz bibliotheksfremden Personals, wie Studierende oder Wachleute. MARS legt Wert auf gute UX, einfache Bedienung und die Ausgabe klarer Handlungsanweisungen, im Zweifel auch den Hinweis, sich an BibliothekarInnen zu wenden.
 
-### flexibel
+<b>flexibel</b><br>
 Entwickelt für schnelle Anbindung an jedes SLNP-fähige Bibliothekssystem. Leihparameter werden von MARS aus dem Bibliothekssystem ausgelesen, wenige Konfigurationsschritte sind nötig.
 
-### datenschutz
+<b>datenschutz</b><br>
 Die Ausleihoberfläche zeigt keinerlei Nutzerinformationen und gibt stattdessen nur die notwendigen Inhalte aus. Die XML-Logging-Routine kann unkompliziert angepasst werden.
 
-### kommunikation
+<b>kommunikation</b><br>
 Notizfunktion und ein Dashboard mit Übersicht über alle zuletzt geloggten Vorgänge und Fehlschläge ermöglichen transparente Arbeit.
 
 
