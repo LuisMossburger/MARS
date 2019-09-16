@@ -1,6 +1,8 @@
 # MARS (minimale ausleihe | regensburger system)
-ein webbasiertes, intutives Ausleihsystem für Bibliotheken. Einsetzbar an jeder Bibliothek, deren Lokalsystem SLNP unterstützt.
+ein webbasiertes, intutives Ausleihsystem für Bibliotheken. Einsetzbar an jeder Bibliothek, deren Lokalsystem SLNP unterstützt. Bachelorarbeit am Fachbereich Archiv- und Bibliothekswesen München der HföD 2019.
 
+<br>
+![MARS](https://github.com/LuisMossburger/MARS/blob/master/MARS.png)
 <br><br>
 
 <b>kompakte funktionen</b><br>
