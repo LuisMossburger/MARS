@@ -20,11 +20,19 @@ Die Ausleihoberfläche zeigt keinerlei Nutzerinformationen und gibt stattdessen 
 <b>kommunikation</b><br>
 Notizfunktion und ein Dashboard mit Übersicht über alle zuletzt geloggten Vorgänge und Fehlschläge ermöglichen transparente Arbeit.
 
+<br><br>
+
+MARS kann aus lizenzrechtlichen Gründen nicht Open Source zur Verfügung gestellt werden. Bei Interesse freue ich mich über Kontaktaufnahme und stelle den Code gerne zur Verfügung!
 
 
-MARS kann aus lizenzrechtlichen Gründen nicht Open Source zur Verfügung gestellt werden. Bei Interesse freue ich mich über Kontaktaufnahme!
+<br><br><br>
 
+## Ausleihoberfläche
+![MARS Ausleihe](https://github.com/LuisMossburger/MARS/blob/master/MARS_Ausleihe.png)
 
+<br><br>
 
-
+## Dashboard
+![MARS Dashboard](https://github.com/LuisMossburger/MARS/blob/master/MARS_Dashboard.png)
+<br><br>
 
