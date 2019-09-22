@@ -30,9 +30,4 @@ MARS kann aus lizenzrechtlichen Gründen nicht Open Source zur Verfügung gestel
 ## Ausleihoberfläche
 ![MARS Ausleihe](https://github.com/LuisMossburger/MARS/blob/master/MARS_Ausleihe.png)
 
-<br><br>
-
-## Dashboard
-![MARS Dashboard](https://github.com/LuisMossburger/MARS/blob/master/MARS_Dashboard.png)
-<br><br>
 
